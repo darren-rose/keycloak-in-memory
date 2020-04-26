@@ -16,6 +16,3 @@ stop
 ```  
 docker-compose down
 ```
-
-# keycloak-in-memory
-# keycloak-in-memory
